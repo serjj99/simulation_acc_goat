@@ -17,6 +17,8 @@ The goal of this work is to demonstrate how simple mathematical tools — such a
 ## 📁 Contents / Contenido
 
 - `simulacion_cabras.ipynb` – Jupyter notebook with all the code, models, simulation steps and visualizations.
+- `valores_reales_ejemplo.html` - Real acceleration data of a goat
+- `valores_simulados.html` - Simulated acceleration data of a goat
 
 > 🗂️ **Real data access**:  
 > The original triaxial accelerometer data used in this study is available at the institutional repository of the Universitat Politècnica de València (RiuNet):  
