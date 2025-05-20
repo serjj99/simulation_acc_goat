@@ -23,7 +23,6 @@ The goal of this work is to demonstrate how simple mathematical tools — such a
 > 🗂️ **Real data access**:  
 > The original triaxial accelerometer data used in this study is available at the institutional repository of the Universitat Politècnica de València (RiuNet):  
 > 📎 [http://hdl.handle.net/10251/XXXXXX](http://hdl.handle.net/10251/XXXXXX)  
-> *(Replace with actual link once the dataset is uploaded and published)*
 
 ---
 
